@@ -5,12 +5,14 @@ A single-sided waveform seekbar for foobar2000 with subtle time markings (an alt
 Click anywhere on the seekbar to move the playback to that point in the song. The waveform helps in navigating to particular parts of an audio file. The background of the waveform is subtly shaded, with white sections corresponding to odd minutes and shaded sections to even minutes, to help in navigating to particular timestamps.
 
 Example foobar2000 layout with seekbar installed:
-![](images/FullLayout.PNG)
+![](images/FullLayout.PNG)  
+This project produces the seekbar positioned here below the album list.  
+The album list was created using [Facets](http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components/Facets_(foo_facets)).
 
-![](images/NoShade.png)
+![](images/NoShade.png)  
 With "Shade Played" unchecked
 
-![](images/ShadePlayed.png)
+![](images/ShadePlayed.png)  
 With "Shade Played" checked
 
 ## Installation:
