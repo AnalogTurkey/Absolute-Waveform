@@ -23,7 +23,7 @@ http://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components_0.9/foo_wave_se
 Right-click on the waveform seekbar UI element and click "Configure". This should pop up:
 ![](images/seekbarconfig.PNG)
 
-Set the Frontend to Direct3D 9.0.
+Set the Frontend to Direct3D 9.0.  
 Click "Frontend Settings" and replace the code there with the contents of "absolute-waveform.fx".
 
 ### Optional, for the exact look in the screenshot:
